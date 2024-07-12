@@ -1,0 +1,54 @@
+{
+  "juegos": [
+    {
+      "nombre": "The Legend of Zelda: Breath of the Wild",
+      "portada": "link_de_portada_zelda",
+      "caratula": "link_de_caratula_zelda",
+      "categoria": "Aventura",
+      "descarga": "link_de_descarga_zelda",
+      "sinopsis": "Explora un vasto mundo abierto lleno de aventuras y desafíos.",
+      "consola": "Nintendo Switch",
+      "año": "2017"
+    },
+    {
+      "nombre": "God of War",
+      "portada": "link_de_portada_gow",
+      "caratula": "link_de_caratula_gow",
+      "categoria": "Acción",
+      "descarga": "link_de_descarga_gow",
+      "sinopsis": "Kratos y su hijo Atreus se embarcan en una épica aventura en la mitología nórdica.",
+      "consola": "PlayStation 4",
+      "año": "2018"
+    },
+    {
+      "nombre": "Red Dead Redemption 2",
+      "portada": "link_de_portada_rdr2",
+      "caratula": "link_de_caratula_rdr2",
+      "categoria": "Aventura",
+      "descarga": "link_de_descarga_rdr2",
+      "sinopsis": "Vive la vida de un forajido en el salvaje oeste.",
+      "consola": "PlayStation 4, Xbox One, PC",
+      "año": "2018"
+    },
+    {
+      "nombre": "Super Mario Odyssey",
+      "portada": "link_de_portada_mario",
+      "caratula": "link_de_caratula_mario",
+      "categoria": "Plataformas",
+      "descarga": "link_de_descarga_mario",
+      "sinopsis": "Acompaña a Mario en una aventura por diversos mundos para rescatar a la princesa Peach.",
+      "consola": "Nintendo Switch",
+      "año": "2017"
+    },
+    {
+      "nombre": "The Witcher 3: Wild Hunt",
+      "portada": "link_de_portada_witcher",
+      "caratula": "link_de_caratula_witcher",
+      "categoria": "RPG",
+      "descarga": "link_de_descarga_witcher",
+      "sinopsis": "Sigue la historia de Geralt de Rivia en un mundo lleno de monstruos y magia.",
+      "consola": "PlayStation 4, Xbox One, PC",
+      "año": "2015"
+    }
+  ]
+}
